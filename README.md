@@ -1,4 +1,4 @@
-# narcisax
+# Isabella Ponticelli
 # 👋 Ciao! Sono Isabella Ponticelli
 
 🎓 Laurea magistrale in *Sociologia Digitale e Analisi del Web* 
