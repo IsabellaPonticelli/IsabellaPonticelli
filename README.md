@@ -10,9 +10,9 @@
 
 ## 📌 Su di me
 
-Ho comseguito la laurea in **Culture Digitali e della Comunicazione** e successivamente in **Sociologia Digitale e Analisi del Web** presso l’**Università degli Studi di Napoli Federico II**.  
 Attualmente sto approfondendo le mie competenze nel campo della **data analysis**, convinta che **determinazione** e **voglia di apprendere** possano essere un valore aggiunto, in ogni contesto professionale.
-Credo nella **formazione continua** come motore per crescere e affrontare nuove sfide. Sono una persona attenta, positiva e con le idee chiare — caratteristiche che porto anche nei miei progetti.
+Credo nella **formazione continua** come motore per crescere e affrontare nuove sfide. 
+Sono una persona attenta, positiva e con le idee chiare — caratteristiche che porto anche nei miei progetti.
 
 ---
 
