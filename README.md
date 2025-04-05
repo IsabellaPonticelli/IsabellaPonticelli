@@ -1,17 +1,17 @@
 # Isabella Ponticelli
 # 👋 Ciao! Sono Isabella Ponticelli
 
-🎓 Laurea magistrale in *Sociologia Digitale e Analisi del Web* 
-🎓 Laurea triennale in *Culture Digitali e della Comunicazione* 
-📊 In formazione nel campo Data & Analytics  
-🏍 Sportiva appassionata di moto
+🎓 Laurea magistrale in *Sociologia Digitale e Analisi del Web* <br>
+🎓 Laurea triennale in *Culture Digitali e della Comunicazione* <br>
+📊 In formazione nel campo Data & Analytics  <br>
+🏍 Sportiva appassionata di moto<br>
 
 ---
 
 ## 📌 Su di me
 
 Attualmente sto approfondendo le mie competenze nel campo della **data analysis**, convinta che **determinazione** e **voglia di apprendere** possano essere un valore aggiunto, in ogni contesto professionale.
-Credo nella **formazione continua** come motore per crescere e affrontare nuove sfide. 
+Credo nella **formazione continua** come motore per crescere e affrontare nuove sfide. <br>
 Sono una persona attenta, positiva e con le idee chiare — caratteristiche che porto anche nei miei progetti.
 
 ---
