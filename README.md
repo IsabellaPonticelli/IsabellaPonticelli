@@ -3,7 +3,7 @@
 
 🎓 Laurea magistrale in *Sociologia Digitale e Analisi del Web* <br>
 🎓 Laurea triennale in *Culture Digitali e della Comunicazione* <br>
-📊 In formazione nel campo Data & Analytics  <br>
+📊 In formazione nel campo Data Engineering & Analytics  <br>
 🏍 Sportiva appassionata di moto<br>
 
 ---
