@@ -10,7 +10,7 @@
 
 ## 📌 Su di me
 
-Attualmente sto approfondendo le mie competenze nel campo della **data analysis**, convinta che **determinazione** e **voglia di apprendere** possano essere un valore aggiunto, in ogni contesto professionale.<br>
+Attualmente sto approfondendo le mie competenze, convinta che **determinazione** e **voglia di apprendere** possano essere un valore aggiunto, in ogni contesto professionale.<br>
 Credo nella **formazione continua** come motore per crescere e affrontare nuove sfide. <br>
 Sono una persona attenta, positiva e con le idee chiare — caratteristiche che porto anche nei miei progetti.
 
