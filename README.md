@@ -41,8 +41,8 @@ Ho svolto un **tirocinio formativo curriculare** in ISTAT in ambito data analysi
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![NVivo](https://img.shields.io/badge/-NVivo-00B5D1?logo=qualtrics&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-D83B01?logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/-Microsoft_Fabric-4258C9?logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft_Fabric-107C10?logo=microsoft&logoColor=white)
 ![SSAS](https://img.shields.io/badge/-SSAS-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![SSIS](https://img.shields.io/badge/-SSIS-CC2927?logo=microsoftsqlserver&logoColor=white)
 
