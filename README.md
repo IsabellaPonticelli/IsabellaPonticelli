@@ -18,13 +18,14 @@ Sono una persona attenta, positiva e con le idee chiare — caratteristiche che 
 
 ## 🧠 Competenze tecniche 
 
-- **Analisi quantitativa e qualitativa dei dati**
-- **SQL** – Query avanzate, strutturazione dati e ottimizzazione  
-- **Power BI** – DAX base  
-- **Python (in corso)** – Pandas, data cleaning, analisi descrittiva  
-- **R** – Analisi statistica, grafici, modelli  
-- **NVivo** – Analisi testuale e codifica qualitativa  
-- **Data storytelling** – Interpretare i dati per comunicarli al meglio
+- Analisi quantitativa e qualitativa dei dati
+- Creazione e gestione di pipeline dati (ETL)
+- Modellazione e ottimizzazione di database
+- Data cleaning e preparazione dati
+- Analisi statistica descrittiva e multivariata
+- Data visualization e storytelling
+- Creazione di report e dashboard interattivi
+- Integrazione di dati provenienti da fonti eterogenee
 
 Ho svolto un **tirocinio formativo curriculare** in ISTAT in ambito data analysis.
 
@@ -40,15 +41,19 @@ Ho svolto un **tirocinio formativo curriculare** in ISTAT in ambito data analysi
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![NVivo](https://img.shields.io/badge/-NVivo-00B5D1?logo=qualtrics&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-D83B01?logo=microsoft&logoColor=white)
-
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft_Fabric-4258C9?logo=microsoft&logoColor=white)
+![SSAS](https://img.shields.io/badge/-SSAS-CC2927?logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/-SSIS-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 ---
 
 ## 🚀 Obiettivi attuali
 
-- Approfondire l’uso di Python per la data analysis
+- Approfondire l’uso di Python per la data analysis e il data engineering
 - Migliorare nella data visualization con strumenti interattivi
-- Entrare in un team dove i dati fanno la differenza
+- Sviluppare competenze avanzate nei processi ETL
+- Far parte di un team dove i dati fanno la differenza
 
 ---
 
